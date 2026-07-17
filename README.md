@@ -244,11 +244,19 @@ Successfully contributed to a public open-source project by improving documentat
 
 ---
 
-# 🤝 Connect With Me
+## 🤝 Connect With Me
 
-- 💼 LinkedIn: https://linkedin.com/in/YOUR-LINKEDIN
+<p align="center">
 
-- 📧 Email: YOUR_EMAIL
+<a href="https://www.linkedin.com/in/arowoloade">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:ayoadeoke@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
 
 ---
 
