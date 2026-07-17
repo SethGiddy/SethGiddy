@@ -1,3 +1,9 @@
+<p align="center">
+
+<img src="images/banner.png">
+
+</p>
+
 <h1 align="center">Hi 👋, I'm Ayo Oke</h1>
 
 <h3 align="center">
@@ -164,9 +170,9 @@ Successfully contributed to a public open-source project by improving documentat
 
 ---
 
-# 🚀 Featured Projects
+## 🚀 Featured Projects
 
-| Project | Description |
+[repository card markdown]
 |----------|-------------|
 | Linux Commands Handbook | Practical Linux commands with explanations |
 | Azure Terraform Lab | Deploy Azure infrastructure using Terraform |
