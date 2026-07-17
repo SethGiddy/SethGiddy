@@ -62,14 +62,23 @@ Network & System Administration
 
 ---
 
-# 🏆 Professional Certifications
+## 🏆 Professional Certifications
 
-- ☁️ Microsoft Certified: Azure Administrator Associate (AZ-104)
-- ☁️ Microsoft Certified: Azure Fundamentals (AZ-900)
-- ☸️ Kubernetes & Cloud Native Associate (KCNA)
-- 🐙 GitHub Foundations
-- 💰 FinOps Certified Practitioner
-- 💻 CompTIA A+
+<p>
+
+<img src="https://img.shields.io/badge/AZ--104-Azure%20Administrator-0078D4?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/AZ--900-Azure%20Fundamentals-0078D4?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/KCNA-Kubernetes-326CE5?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/GitHub-Foundations-181717?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/FinOps-Certified-4CAF50?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/CompTIA-A+-E60012?style=for-the-badge"/>
+
+</p>
 
 ---
 
